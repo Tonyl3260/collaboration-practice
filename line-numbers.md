@@ -6,7 +6,7 @@
 #### 6
 #### 7 This is the best line of text
 #### 8
-#### 9 GitHub is really good
+#### 9 
 #### 10
 #### 11
 #### 12
