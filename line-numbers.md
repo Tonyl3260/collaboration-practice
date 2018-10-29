@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome 
 #### 10
-#### 11 Coding is fun
+#### 11 Github is great because it makes coding fun
 #### 12
 #### 13
 #### 14
